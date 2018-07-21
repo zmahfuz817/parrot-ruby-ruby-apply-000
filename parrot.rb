@@ -1,3 +1,3 @@
-def parrot(c='Squawk!')
-puts"c"
+def parrot(c="Squawk!")
+puts c
 end
