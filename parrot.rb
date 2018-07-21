@@ -1,3 +1,3 @@
-def bird(parrot)
-  puts "Name of the bird(parrot)"
+def parrot(c='Squawk!')
+puts"c"
 end
